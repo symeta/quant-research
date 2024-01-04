@@ -7,3 +7,9 @@
   ```shell
   !pip install TA-Lib
   ```
+
+## Execution Management System (Execution Module)
+
+- [definition](https://en.wikipedia.org/wiki/Execution_management_system)
+- [time weighted average price](https://en.wikipedia.org/wiki/Time-weighted_average_price)
+- [volume weighted average price](https://en.wikipedia.org/wiki/Volume-weighted_average_price)
