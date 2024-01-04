@@ -13,3 +13,10 @@
 - [definition](https://en.wikipedia.org/wiki/Execution_management_system)
 - [time weighted average price](https://en.wikipedia.org/wiki/Time-weighted_average_price)
 - [volume weighted average price](https://en.wikipedia.org/wiki/Volume-weighted_average_price)
+
+
+## Technical Analysis
+- [moving average](https://en.wikipedia.org/wiki/Moving_average)
+- [bollinger bands](https://en.wikipedia.org/wiki/Bollinger_Bands)
+- [kalman filter](https://en.wikipedia.org/wiki/Kalman_filter)
+- [wavelet](https://en.wikipedia.org/wiki/Wavelet)
